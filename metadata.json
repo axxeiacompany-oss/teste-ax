@@ -1,0 +1,6 @@
+{
+  "name": "FiscalAngola Pro • Formador & Assistente CIVA e Imposto Industrial",
+  "description": "Plataforma profissional de contabilidade e fiscalidade angolana. Automatização de cálculo do IVA, Imposto Industrial, retenções na fonte, conformidade normativa AGT e formador interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
